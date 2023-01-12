@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Привет, меня зовут Константин
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Программирую на Java </h3>
+Окончил курс Java-разработчик от Яндекс.Практикум и активно развиваюсь в данном направлении
 
 <!--
 **hpki/hpki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
